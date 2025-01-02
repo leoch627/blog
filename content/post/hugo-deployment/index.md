@@ -1,14 +1,14 @@
 ---
-title: 'Hugo+Stack主题在本机的部署'
+title: Hugo+Stack主题在本机的部署
 description: Welcome to Hugo Theme Stack
 slug: hugo-deployment
-date: '2024-12-20T16:26:17+08:00'
-image: cover.jpg
+date: 2024-12-20T16:26:17+08:00
+image: hugo-deployment.jpg
 categories:
-    - 技术
+  - 技术
 tags:
-    - Hugo
-weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+  - Hugo
+weight: 1
 ---
 
 
