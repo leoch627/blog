@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/hugo-deployment/index.md",
+                "file": "content/post/hugo-newpost/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -164,6 +164,11 @@
   },
   "active": "d4cf8d2522a2e0c9",
   "lastOpenFiles": [
+    "content/post/hugo-deployment/index.md",
+    "content/post/hugo-newpost/index.md",
+    "content/post/shortcodes/index.md",
+    "content/post/hello-world/index.md",
+    "content/post/image-gallery/1.jpg",
     "public/ts/main.1e9a3bafd846ced4c345d084b355fb8c7bae75701c338f8a1f8a82c780137826.js",
     "public/tags/page/2/index.html",
     "public/tags/page/2",
@@ -174,7 +179,6 @@
     "public/tags/hugo/page",
     "public/tags/hugo/index.xml",
     "public/tags/hugo/index.html",
-    "public/tags/hugo",
     "resources/_gen/images/p/image-gallery/2_hu1741040415904021193.jpg",
     "resources/_gen/images/p/image-gallery/2_hu10699635480308914167.jpg",
     "resources/_gen/images/p/image-gallery/1_hu9042511268598201431.jpg",
@@ -183,9 +187,6 @@
     "resources/_gen/images/p/hugo-deployment/cover.bb3f10fb9048e0f51cd273bb8e05a119_hu1995795545429654398.jpg",
     "public/p/hugo-deployment/cover.bb3f10fb9048e0f51cd273bb8e05a119.jpg",
     "resources/_gen/images/p/hello-world/cover.c514d916917173a48a42e0114b469961_hu7626638945853200361.jpg",
-    "public/p/hugo-deployment/cover_hu15304883378557903392.jpg",
-    "public/p/hugo-deployment/cover_hu118939738096247273.jpg",
-    "content/post/hello-world/index.md",
-    "content/post/hugo-deployment/index.md"
+    "public/p/hugo-deployment/cover_hu15304883378557903392.jpg"
   ]
 }
