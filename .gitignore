@@ -10,8 +10,6 @@
 .obsidian/
 .hugo_build.lock
 
-# Node.js dependencies (如果你用到了 npm/yarn)
-node_modules/
 
 # System files
 Thumbs.db
