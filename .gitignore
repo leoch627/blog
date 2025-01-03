@@ -1,3 +1,17 @@
-public
-resources
+# Hugo build outputs
+/public/
+/resources/
+
+# Local configurations and editor-specific files
+*.lock
+.DS_Store
+.idea/
+.vscode/
+.obsidian/
 .hugo_build.lock
+
+# Node.js dependencies (如果你用到了 npm/yarn)
+node_modules/
+
+# System files
+Thumbs.db
