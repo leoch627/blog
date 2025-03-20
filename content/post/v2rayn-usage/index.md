@@ -1,12 +1,12 @@
 ---
-title: Minecraft的下载与安装 附mod教程
-description: 不想用网易中国版？
-slug: minecraft-installation
-date: 2024-12-30
-image: minecraft.jpg
+title: V2RayN 简易使用教程
+description: 不喜欢clash？
+slug: v2rayn-usage
+date: 2025-03-19
+image: 
 categories: 
 tags:
   - Hugo
 weight: 1
 ---
- 
+ 要准备的
