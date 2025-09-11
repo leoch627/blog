@@ -1,14 +1,14 @@
 ---
 title: 如何自己开chatgpt plus
 description: 嫌网上收费高？
+slug: how-to-setup-chatgpt-plus
 date: 2025-08-26T21:09:29+08:00
 image:
 math:
 license:
 hidden: false
 comments: true
-draft: true
-slug: how-to-setup-chatgpt-plus
+draft: false
 ---
 最近很多人找我咨询开chatgpt plus，然后我因为网页刷卡加上手工费价格比较高，所以这里介绍个方式你们可以自己开。
 
