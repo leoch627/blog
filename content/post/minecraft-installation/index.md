@@ -4,9 +4,8 @@ description: 不想用网易中国版？
 slug: minecraft-installation
 date: 2024-12-30
 image: minecraft.jpg
-categories: 
+categories:
 tags:
   - Minecraft
-weight: 1
 ---
  

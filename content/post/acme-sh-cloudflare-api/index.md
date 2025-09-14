@@ -3,11 +3,10 @@ title: Acme.sh使用cloudflare api和letsencrypt申请通配符证书
 description: 老是忘，记一下
 slug: acme-sh-cloudflare-api
 date: 2025-03-19
-image: 
+image:
 categories:
   - 技术
-tags: 
-weight: 1
+tags:
 ---
 1.安装acme.sh
 ```
