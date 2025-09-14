@@ -1,19 +1,16 @@
 ---
-
-title: YxVM：您的云服务最佳选择  
-description: 探索 YxVM 的高性能云服务，体验稳定、灵活和高效的解决方案。  
-slug: yxvm-cloud-services  
-date: 2025-02-02T16:26:17+08:00  
-image: yxvm-cloud.jpg  
-categories:  
-  - 技术  
-  - 云服务  
-tags:  
-  - YxVM  
-  - 云服务器  
-  - 高性能  
-weight: 1  
-
+title: YxVM：您的云服务最佳选择
+description: 探索 YxVM 的高性能云服务，体验稳定、灵活和高效的解决方案。
+slug: yxvm-cloud-services
+date: 2025-02-02T16:26:17+08:00
+image: yxvm-cloud.jpg
+categories:
+  - 技术
+  - 云服务
+tags:
+  - YxVM
+  - 云服务器
+  - 高性能
 ---
 
 ## YxVM：您的云服务最佳选择

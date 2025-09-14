@@ -8,7 +8,6 @@ categories:
   - 技术
 tags:
   - Hugo
-weight: 1
 ---
 
 
