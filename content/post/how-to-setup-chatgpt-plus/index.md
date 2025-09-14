@@ -7,8 +7,10 @@ image:
 math:
 license:
 hidden: false
-comments: true
+comments: false
 draft: false
+categories:
+  - 生活小妙招
 ---
 最近很多人找我咨询开chatgpt plus，然后我因为网页刷卡加上手工费价格比较高，所以这里介绍个方式你们可以自己开。
 
