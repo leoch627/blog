@@ -2,7 +2,7 @@
 title: 如何自己开chatgpt plus
 description: 嫌网上收费高？
 slug: how-to-setup-chatgpt-plus
-date: 2025-08-26T21:09:29+08:00
+date: 2025-08-26
 image:
 math:
 license:
