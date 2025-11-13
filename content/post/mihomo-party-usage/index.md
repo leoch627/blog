@@ -12,9 +12,11 @@ tags:
 哈喽啊 本文会为你们介绍如何使用mihomo party并且用好它
 
 首先 根据你的系统下载合适的安装包
-Windows: https://jp.leiterup.de/mihomo-party/v1.8.4/mihomo-party-windows-1.8.4-x64-setup.exe
-Mac(m芯片): https://jp.leiterup.de/mihomo-party/v1.8.4/mihomo-party-macos-1.8.4-arm64.pkg
-Mac(Intel芯片) : https://jp.leiterup.de/mihomo-party/v1.8.4/mihomo-party-macos-1.8.4-x64.pkg
+Windows: [mihomo-party-windows-1.8.4-x64-setup.exe](https://hydrofurina1013outlook-my.sharepoint.com/:u:/g/personal/leochang_hydrofurina1013outlook_onmicrosoft_com/EVRkDsuTXxlGhL9TGmHFtakBK65sDzdX7vqyw9I29yQuYg?e=uBwlby)
+
+Mac(m芯片): [mihomo-party-macos-1.8.4-arm64.pkg](https://hydrofurina1013outlook-my.sharepoint.com/:u:/g/personal/leochang_hydrofurina1013outlook_onmicrosoft_com/EdV7gWrHEWhOjdGeDovugDkBwTdXrcZ-2xSXR2vlNzltYQ?e=DSChSj)
+
+Mac(Intel芯片) : [mihomo-party-macos-1.8.4-x64.pkg](https://hydrofurina1013outlook-my.sharepoint.com/:u:/g/personal/leochang_hydrofurina1013outlook_onmicrosoft_com/Ed-Z-TqFI8ZFojmBy8ins9QBfTDI2dv6aFzXuOEZNyxbMw?e=ymuGZP)
 
 给予他管理员权限一路继续安装完启动即可 
 
