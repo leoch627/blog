@@ -1,6 +1,8 @@
 # Change baseurl before deploy
 baseurl = "https://leocha.ng"
-languageCode = "zh-cn"
+# languageCode was deprecated in Hugo v0.158.0 and will be removed in a future release.
+# Use `locale` (and/or `defaultContentLanguage` / language config) instead.
+# languageCode = "zh-cn"
 title = "Leo Chang's site"
 
 # Theme i18n support
